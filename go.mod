@@ -1,4 +1,4 @@
-module github.com/jlburkhead/sse
+module github.com/jlburkhead/go-sse
 
 go 1.20
 
